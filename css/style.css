@@ -246,6 +246,7 @@ border:0px;
 .bg-image-2 {
 }
 .caption-data {position: absolute; top: 50%; left: 50%; z-index: 20; text-align: center; -webkit-transform: translate(-50%,-50%); -moz-transform: translate(-50%,-50%); transform: translate(-50%,-50%);}
+.caption-data h1 {text-transform: none;}
 .caption-data h1 span {font-size: inherit; line-height: inherit; font-weight: inherit;}
 .caption-data h3{line-height:34px;}
 button.cta-button.btn-light, button.cta-button.btn-dark, .contact-form button.cta-button, button.cta-button.btn-default {
